@@ -1,0 +1,20 @@
+{
+    "name": "moonbix",
+    "description": "Made by Jho",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "@supercharge/promise-pool": "^3.2.0",
+        "axios": "^1.7.2",
+        "colors": "^1.4.0",
+        "date-fns": "^3.6.0",
+        "inquirer": "^10.1.8",
+        "node-schedule": "^2.1.1",
+        "querystring": "^0.2.1",
+        "strip-ansi": "^7.1.0",
+        "winston": "^3.14.2"
+    }
+}
